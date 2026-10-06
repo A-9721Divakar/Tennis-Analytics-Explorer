@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.20
+SQLAlchemy>=2.0
+requests>=2.31
+python-dotenv>=1.0
+# Database drivers (only the one you use is needed; SQLite is built into Python)
+psycopg2-binary>=2.9
+PyMySQL>=1.1
